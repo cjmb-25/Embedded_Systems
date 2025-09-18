@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Hatdog";
-const char* password = "11111111";
+const char* ssid = "ssid";
+const char* password = "password";
 
 const int led1Pin = 13;  // GPIO13 for LED1
 const int led2Pin = 14;  // GPIO14 for LED2
