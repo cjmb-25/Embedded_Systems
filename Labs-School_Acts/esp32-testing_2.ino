@@ -2,12 +2,12 @@
 #include <FirebaseESP32.h>
 
 // Replace with your network credentials
-#define WIFI_SSID "CPS-ROUTER-2"
-#define WIFI_PASSWORD "cps2024@2"
+#define WIFI_SSID "xxx"
+#define WIFI_PASSWORD "xxx"
 
 // Replace with your Firebase project credentials
-#define API_KEY "AIzaSyAEux_EsiqueGi_i_bHahZxNV_Z_Azx0v4"
-#define DATABASE_URL "https://analog-database-1ef55-default-rtdb.firebaseio.com/" 
+#define API_KEY "xxx"
+#define DATABASE_URL "xxx" 
 
 // Firebase objects
 FirebaseData fbdo;
